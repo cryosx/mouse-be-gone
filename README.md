@@ -87,7 +87,7 @@ To see how good you are without the mouse!
 
 #### Javascript
 
-1. Make a new folder called ```js```
+1. Make a new folder called ```js```	
 1. Copy the ```app.js``` into ```js```
 1. Link ```app.js``` to the project
 1. Using _ONLY_ ```Javascript``` inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
